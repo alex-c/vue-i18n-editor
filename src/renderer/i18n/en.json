@@ -1,0 +1,6 @@
+{
+  "files": {
+    "loadError": "Failed loading the file!",
+    "parseError": "Failed parsing the file! Please make sure that you select a JSON file."
+  }
+}
