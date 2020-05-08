@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro&family=Source+Sans+Pro&display=swap");
 @import "./style/colors.scss";
 
 * {
@@ -31,9 +31,9 @@ body {
 
 #app {
   background-color: $color-vue-dark;
-  color: white;
   width: 100vw;
   height: 100vh;
+  color: white;
 }
 
 .left {
